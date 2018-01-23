@@ -478,7 +478,7 @@
      }
     
     .list-menu-float:hover .icon-menu
-    {opacity:1;
+    {opacity:0;
     -moz-transition-property: all;
         -o-transition-property: all;
         -webkit-transition-property: all;
